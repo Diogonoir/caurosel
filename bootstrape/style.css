@@ -1,0 +1,9 @@
+.imagem-carrosel{
+object-fit: cover;
+object-position: 0 55%;
+height: 400px;px
+border-radius: 50%;
+background: url(https://i.stack.imgur.com/Rpt58.jpg) no-repeat center center;
+background-size: cover
+}
+
